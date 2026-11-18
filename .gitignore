@@ -1,0 +1,6 @@
+
+# Arquivos gerados durante as compilações
+workspace/
+downloads/
+sstate-cache/
+output/
